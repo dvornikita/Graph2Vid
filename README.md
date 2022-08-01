@@ -8,7 +8,7 @@ The repo includes, the code to run graph grounding on the CrossTask dataset [2],
 1. Unpack the CrossTask data and the corresponding flow graphs by running the following command in the project root:
     ```unzip crosstask_with_graphs.zip```
     The folder contains flow graphs created i) manually, ii) obtained with the learning-based parser, or iii) the rule-based parser.
-2. Git-clone the MIL-NCE [3] feature extractor from the (official repo)[https://github.com/antoine77340/MIL-NCE_HowTo100M]:
+2. Git-clone the MIL-NCE [3] feature extractor from the [official repo](https://github.com/antoine77340/MIL-NCE_HowTo100M):
     ```git clone https://github.com/antoine77340/MIL-NCE_HowTo100M.git```
 3. Set up the paths to where you git-cloned the MIL-NCE repo. For that, modify the `S3D_PATH` variable in `paths.py`.
 
