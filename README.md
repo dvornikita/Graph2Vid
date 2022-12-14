@@ -13,10 +13,12 @@ The repo includes, the code to run graph grounding on the CrossTask dataset [2],
 3. Set up the paths to where you git-cloned the MIL-NCE repo. For that, modify the `S3D_PATH` variable in `paths.py`.
 
 ### Run graph grounding on CrossTask
- 1. Open the `evaluate.ipynb' notebook and run the step localization evaluation on CrossTask.
+ 1. Open the `evaluate.ipynb` notebook and run the step localization evaluation on CrossTask.
 
 
 ### Reference
 [1] Dvornik et al. "Graph2Vid: Flow graph to Video Grounding for Weakly-supervised Multi-Step Localization." ECCV'22.
+
 [2] Zhukov et al. "Cross-task: weakly supervised learning from instructional videos." CVPR'19
+
 [3] Miech et al. "End-to-end learning of visual representations from uncurated instructional videos." CVPR'20.
