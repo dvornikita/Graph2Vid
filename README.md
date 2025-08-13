@@ -17,8 +17,8 @@ The repo includes, the code to run graph grounding on the CrossTask dataset [2],
 
 
 ### Reference
-[1] Dvornik et al. "Graph2Vid: Flow graph to Video Grounding for Weakly-supervised Multi-Step Localization." ECCV'22.
+[1] Dvornik et al. "Graph2Vid: Flow graph to Video Grounding for Weakly-supervised Multi-Step Localization." ECCV 2022.
 
-[2] Zhukov et al. "Cross-task: weakly supervised learning from instructional videos." CVPR'19
+[2] Zhukov et al. "Cross-task: weakly supervised learning from instructional videos." CVPR 2019
 
-[3] Miech et al. "End-to-end learning of visual representations from uncurated instructional videos." CVPR'20.
+[3] Miech et al. "End-to-end learning of visual representations from uncurated instructional videos." CVPR 2020.
